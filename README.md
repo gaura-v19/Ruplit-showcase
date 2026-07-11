@@ -49,6 +49,5 @@ Built to understand how a real end-to-end application comes together — from wi
 ## More Projects
 Also built 5 small static websites as early learning projects — simple HTML/CSS/JS layouts to practice fundamentals.
 
-Check out my [GitHub profile](https://github.com/your-username) for more.
 
 
