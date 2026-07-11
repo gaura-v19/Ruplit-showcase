@@ -81,16 +81,17 @@ Spring Data JPA
 
 ## Application Preview
 
+
 <p align="center">
-  <img src="assets/login.jpeg" width="240"/>
-  <img src="assets/home-screen.jpeg" width="240"/>
-  <img src="assets/add-expense.jpeg" width="240"/>
+  <img src="assets/login.jpeg" width="230">
+  <img src="assets/home-screen.jpeg" width="230">
+  <img src="assets/add-expense.jpeg" width="230">
 </p>
 
 <p align="center">
-  <img src="assets/payment-details.jpeg" width="240"/>
-  <img src="assets/settlement.jpeg" width="240"/>
-  <img src="assets/history.jpeg" width="240"/>
+  <img src="assets/payment-details.jpeg" width="230">
+  <img src="assets/settlement.jpeg" width="230">
+  <img src="assets/history.jpeg" width="230">
 </p>
 
 # API Modules
