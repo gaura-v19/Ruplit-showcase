@@ -16,10 +16,14 @@ A mobile app for splitting expenses with friends — track shared costs, settle 
 
 ## Screenshots
 
-![Login](./assets/login.png.jpeg)
-![Home](./assets/home%20screen.jpeg)
-![Add Expense](./assets/add%20expense.jpeg)
-![Select People](./assets/selectPeople.png.jpeg)
-![Settlement](./assets/settlement.png.jpeg)
-![WhatsApp Reminder](./assets/whatsapp%20reminder.png.jpeg)
+<p align="center">
+  <img src="./assets/login.png.jpeg" width="200" />
+  <img src="./assets/home%20screen.jpeg" width="200" />
+  <img src="./assets/add%20expense.jpeg" width="200" />
+</p>
+<p align="center">
+  <img src="./assets/selectPeople.png.jpeg" width="200" />
+  <img src="./assets/settlement.png.jpeg" width="200" />
+  <img src="./assets/whatsapp%20reminder.png.jpeg" width="200" />
+</p>
 
