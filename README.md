@@ -78,61 +78,20 @@ Spring Data JPA
 
 ---
 
-# Application Screenshots
 
-## Login
+## Application Preview
 
-![](assets/login.png.jpeg)
+<p align="center">
+  <img src="assets/login.jpeg" width="240"/>
+  <img src="assets/home-screen.jpeg" width="240"/>
+  <img src="assets/add-expense.jpeg" width="240"/>
+</p>
 
----
-
-## Home Screen
-
-![](assets/home screen.jpeg)
-
----
-
-## Add Expense
-
-![](assets/add expense.jpeg)
-
----
-
-## Select People
-
-![](assets/selectPeople.png.jpeg)
-
----
-
-## Payment Details
-
-![](assets/paymentDetails.png.jpeg)
-
----
-
-## Settlement
-
-![](assets/settlement.png.jpeg)
-
----
-
-## Split Completed
-
-![](assets/splitDoneScreen.png.jpeg)
-
----
-
-## Expense History
-
-![](assets/history.png.jpeg)
-
----
-
-## WhatsApp Reminder
-
-![](assets/whatsapp reminder.png.jpeg)
-
----
+<p align="center">
+  <img src="assets/payment-details.jpeg" width="240"/>
+  <img src="assets/settlement.jpeg" width="240"/>
+  <img src="assets/history.jpeg" width="240"/>
+</p>
 
 # API Modules
 
