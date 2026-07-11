@@ -1,169 +1,25 @@
-# Ruplit-showcase
+# Ruplit 💸
 
-# Ruplit
-
-A modern expense splitting mobile application , built using Java, Spring Boot and React Native.
-
-Ruplit helps users manage shared expenses with friends, roommates and groups through a secure authentication system. Users can create groups, add expenses, track balances, record settlements and receive payment reminders. The application follows a layered backend architecture using RESTful APIs and PostgreSQL for reliable data management.
-
-This project was built to gain practical experience in backend development, authentication, database design, REST APIs and deployment of a full-stack application.
-
----
+A mobile app for splitting expenses with friends — track shared costs, settle up, and send WhatsApp reminders.
 
 ## Features
+- JWT-based login/signup
+- Split expenses equally or custom, with registered or unregistered contacts
+- Real-time balance tracking (you owe / owed to you)
+- Settlement requests with approve/decline flow
+- In-app notifications
+- WhatsApp reminder integration 
 
-- Secure JWT Authentication
-- User Registration & Login
-- Group Creation & Management
-- Shared Expense Management
-- Settlement Tracking
-- Payment History
-- WhatsApp Payment Reminders
-- User Profiles
-- RESTful API Architecture
-- PostgreSQL Database Integration
+## Tech Stack
+**Backend:** Java, Spring Boot, Spring Security, JWT, Redis(implemented thorugh AI as interest) 
+**Frontend:** AI generated frontend.
 
----
+## Screenshots
 
-# Tech Stack
+![Login](./assets/login.png.jpeg)
+![Home](./assets/home%20screen.jpeg)
+![Add Expense](./assets/add%20expense.jpeg)
+![Select People](./assets/selectPeople.png.jpeg)
+![Settlement](./assets/settlement.png.jpeg)
+![WhatsApp Reminder](./assets/whatsapp%20reminder.png.jpeg)
 
-## Backend
-
-- Java
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- JWT Authentication
-
-## Frontend
-
-- React Native
-- Expo
-
-## Database
-
-- PostgreSQL (Neon)
-
-## Tools
-
-- Git
-- Maven
-- Postman
-- ngrok
-- Render
-
----
-
-# Architecture
-
-```text
-React Native
-        │
-        ▼
-    REST APIs
-        │
-        ▼
-   Spring Boot
-        │
-        ▼
-   Service Layer
-        │
-        ▼
-Spring Data JPA
-        │
-        ▼
-   PostgreSQL
-```
-
----
-
-
-## Application Preview
-
-
-<p align="center">
-  <img src="assets/login.jpeg" width="230">
-  <img src="assets/home-screen.jpeg" width="230">
-  <img src="assets/add-expense.jpeg" width="230">
-</p>
-
-<p align="center">
-  <img src="assets/payment-details.jpeg" width="230">
-  <img src="assets/settlement.jpeg" width="230">
-  <img src="assets/history.jpeg" width="230">
-</p>
-
-# API Modules
-
-| Module | Description |
-|---------|-------------|
-| Authentication | User Registration & Login |
-| Users | User Profile Management |
-| Groups | Create & Manage Groups |
-| Expenses | Create & Track Expenses |
-| Settlements | Manage Settlements |
-| Notifications | Payment Reminders |
-
----
-
-# Deployment
-
-### Backend
-
-- Spring Boot deployed on **Render**
-
-### Database
-
-- PostgreSQL hosted on **Neon**
-
-### Local Development
-
-- Backend APIs were tested locally using **ngrok** before deployment.
-
----
-
-# Learning Outcomes
-
-This project helped me gain practical experience with:
-
-- Spring Boot application development
-- REST API design
-- Spring Security
-- JWT Authentication
-- PostgreSQL database integration
-- Spring Data JPA & Hibernate
-- Layered Backend Architecture
-- Backend deployment using Render
-- Mobile & Backend integration
-
----
-
-# Future Improvements
-
-- Expense Analytics Dashboard
-- Push Notifications
-- Recurring Expenses
-- Offline Support
-- Receipt Scanning
-- Multi-Currency Support
-
----
-
-## Repository Information
-
-This repository showcases the project architecture, features, screenshots and technical overview.
-
-The complete source code is maintained separately.
-
----
-
-## Author
-
-**Gaurav Tripathi**
-
-GitHub: https://github.com/gaura-v19
-
-LinkedIn: *(Add your LinkedIn URL)*
-
-Portfolio: *(Add your Portfolio URL)*
